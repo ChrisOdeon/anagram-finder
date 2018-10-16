@@ -1,0 +1,2 @@
+class Wordlist < ApplicationRecord
+end
